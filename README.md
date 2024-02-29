@@ -4,13 +4,11 @@ kvm type snapshot, but its directory specific, flexible where the changes can be
 # instructions
 
 ### run these
-```
-bash
+```bash
 sudo chown root:root snapshot.sh
 ```
 
-```
-bash
+```bash
 sudo chmod u+s snapshot.sh
 ```
 
